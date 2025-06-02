@@ -1,0 +1,15 @@
+{
+    "math": {
+        "success": "The result of {expression} is {result}.",
+        "error": "I couldn't calculate {expression}. {error}"
+    },
+    "country": {
+        "success": "{country} has a {property} of {value}.",
+        "error": "I couldn't find information about {country}."
+    },
+    "general": {
+        "greeting": "Hello! How can I help you today?",
+        "farewell": "Goodbye! Have a great day!",
+        "unknown": "I'm not sure about that. Could you rephrase your question?"
+    }
+} 
